@@ -118,7 +118,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "יוֹם אוֹמֵר:",
     verseHebrew: "יוֹם לְיוֹם יַבִּיעַ אֹמֶר וְלַיְלָה לְּלַיְלָה יְחַוֶּה דָּעַת",
     verseFrench: "Le jour en instruit un autre jour, la nuit en donne connaissance à une autre nuit.",
-    customImage: "/image/jour.jpg"
+    customImage: "jour.png"
   },
   {
     id: "night",
@@ -128,7 +128,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "לַיְלָה אוֹמֵר:",
     verseHebrew: "לְהַגִּיד בַּבֹּקֶר חַסְדֶּךָ וֶאֱמוּנָתְךָ בַּלֵּילוֹת",
     verseFrench: "Pour annoncer le matin ta bonté, et ta fidélité pendant les nuits.",
-    customImage: "/image/nuit.jpg"
+    customImage: "nuit.png"
   },
   {
     id: "sun",
@@ -138,7 +138,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "שֶׁמֶשׁ אוֹמֵר:",
     verseHebrew: "שֶׁמֶשׁ יָרֵחַ עָמַד זְבֻלָה לְאוֹר חִצֶּיךָ יְהַלֵּכוּ לְנֹגַהּ בְּרַק חֲנִיתֶךָ",
     verseFrench: "Le soleil et la lune s’arrêtent dans leur demeure, à la lumière de tes flèches qui partent, à la clarté de ta lance qui brille.",
-    customImage: "/image/soleil.jpg"
+    customImage: "soleil.png"
   },
   {
     id: "moon",
@@ -148,7 +148,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "יָרֵחַ אוֹמֶרֶת:",
     verseHebrew: "עָשָׂה יָרֵחַ לְמוֹעֲדִים שֶׁמֶשׁ יָדַע מְבוֹאוֹ",
     verseFrench: "Il a fait la lune pour marquer les temps ; le soleil sait quand il doit se coucher.",
-    customImage: "/image/lune.jpg"
+    customImage: "lune.png"
   },
   {
     id: "stars",
@@ -158,7 +158,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "כּוֹכָבִים אוֹמְרִים:",
     verseHebrew: "אַתָּה הוּא יְהֹוָה לְבַדֶּךָ אַתָּה עָשִׂיתָ אֶת הַשָּׁמַיִם שְׁמֵי הַשָּׁמַיִם וְכָל צְבָאָם",
     verseFrench: "C’est toi, Éternel, toi seul, qui as fait les cieux, les cieux des cieux et toute leur armée.",
-    customImage: "/image/etoiles.jpg"
+    customImage: "etoile.png"
   },
   {
     id: "clouds",
