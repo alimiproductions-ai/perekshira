@@ -58,7 +58,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "מִדְבָּר אוֹמֵר:",
     verseHebrew: "יְשֻׂשׂוּם מִדְבָּר וְצִיָּה וְתָגֵל עֲרָבָה וְתִפְרַח כַּחֲבַצָּלֶת",
     verseFrench: "Le désert et la terre aride se réjouiront ; la solitude s’égaiera, et fleurira comme la rose.",
-    customImage: "/image/desert.jpg"
+    customImage: "desert.png"
   },
   {
     id: "fields",
@@ -68,7 +68,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "שָׂדוֹת אוֹמְרִים:",
     verseHebrew: "יְהֹוָה בְּחָכְמָה יָסַד אָרֶץ כּוֹנֵן שָׁמַיִם בִּתְבוּנָה",
     verseFrench: "C’est par la sagesse que l’Éternel a fondé la terre, c’est par l’intelligence qu’il a affermi les cieux.",
-    customImage: "/image/champs.jpg"
+    customImage: "champs.png"
   },
   {
     id: "waters",
@@ -78,7 +78,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "מַיִם אוֹמְרִים:",
     verseHebrew: "לְקוֹל תִּתּוֹ הֲמוֹן מַיִם בַּשָּׁמַיִם וַיַּעַל נְשִׂאִים מִקְצֵה אָרֶץ",
     verseFrench: "À sa voix, les eaux mugissent dans les cieux ; il fait monter les nuages des extrémités de la terre.",
-    customImage: "/image/eaux.jpg"
+    customImage: "eaux.png"
   },
   {
     id: "seas",
@@ -88,7 +88,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "יָמִים אוֹמְרִים:",
     verseHebrew: "מִקֹּלוֹת מַיִם רַבִּים אַדִּירִים מִשְׁבְּרֵי יָם אַדִּיר בַּמָּרוֹם יְהֹוָה",
     verseFrench: "Plus que la voix des grandes eaux, plus que les puissants flots de la mer, l’Éternel est puissant dans les hauteurs.",
-    customImage: "/image/mers.jpg"
+    customImage: "mers.png"
   },
   {
     id: "rivers",
@@ -98,7 +98,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "נַהֲרוֹת אוֹמְרִים:",
     verseHebrew: "נְהָרוֹת יִמְחֲאוּ כָף יַחַד הָרִים יְרַנֵּנוּ",
     verseFrench: "Les fleuves battent des mains, ensemble les montagnes chantent de joie.",
-    customImage: "/image/fleuves.jpg"
+    customImage: "fleuves.png"
   },
   {
     id: "wells",
@@ -108,7 +108,7 @@ export const perekShiraData: PerekShiraItem[] = [
     introHebrew: "מַעְיָנוֹת אוֹמְרִים:",
     verseHebrew: "וְשָׁרִים כְּחֹלְלִים כָּל מַעְיָנַי בָּךְ",
     verseFrench: "Et ceux qui chantent en dansant s’écrient : Toutes mes sources sont en toi !",
-    customImage: "/image/sources.jpg"
+    customImage: "sources.png"
   },
   {
     id: "day",
